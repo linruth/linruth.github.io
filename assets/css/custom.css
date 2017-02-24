@@ -148,7 +148,7 @@ section {
     top: 5%;
   }
   .icon-scroll {
-    bottom: 20px;
+    bottom: 20px !important;
   }
 }
 
