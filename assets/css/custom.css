@@ -147,6 +147,9 @@ section {
   .start {
     top: 5%;
   }
+  .icon-scroll {
+    bottom: 20px;
+  }
 }
 
 .email {
