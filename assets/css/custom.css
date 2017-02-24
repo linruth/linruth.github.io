@@ -144,6 +144,9 @@ section {
     font-size: 25px;
     word-spacing: 8px;
   }
+  .start {
+    top: 5%;
+  }
 }
 
 .email {
